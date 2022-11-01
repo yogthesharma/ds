@@ -16,3 +16,7 @@
   6. Union
   7. Intersection
   8. Difference
+
+### Day 2/3
+
+- Tried some simple but unusual conding problems

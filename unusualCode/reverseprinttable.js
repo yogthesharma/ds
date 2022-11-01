@@ -3,7 +3,7 @@ function fn() {
   var a = n;
   var b = 1;
 
-  while (a >= 1) {
+  while (a <= n) {
     while (b <= 10) {
       console.log(`${b} x ${a} = ${b * a}`);
       b++;
