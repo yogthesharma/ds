@@ -20,3 +20,7 @@
 ### Day 2/3
 
 - Tried some simple but unusual conding problems
+
+### Day 4
+
+- Tried learning about ml in javascript.
