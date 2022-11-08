@@ -1,5 +1,3 @@
-// didn't understood this code
-
 var divide = function (dividend, divisor) {
   const subDivide = (a, b) => {
     let q = 0;
