@@ -1,1 +1,1 @@
-["eat", "tea", "tan", "ate", "nat", "bat"]
+      console.log({ prevArr, forArr });
