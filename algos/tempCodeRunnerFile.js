@@ -1,1 +1,1 @@
-      console.log({ prevArr, forArr });
+nums[nums.length - 1]
